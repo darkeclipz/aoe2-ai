@@ -1,6 +1,6 @@
 # AoE2-AI
 
-Custom AI developed for Age of Empires 2.
+Custom AI developed for Age of Empires 2. AI is in the `kaia2` folder.
 
 ## Resources
 
